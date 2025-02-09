@@ -1,0 +1,31 @@
+{
+  "editor.fontSize": 15,
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.glyphMargin": false,
+  "editor.guides.indentation": false,
+  "editor.lineHeight": 30,
+  "editor.lineNumbers": "off",
+  "editor.minimap.enabled": false,
+  "git.confirmSync": false,
+  "window.autoDetectColorScheme": true,
+  "editor.formatOnPaste": true,
+  "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.sideBar.location": "right",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 3,
+  "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.commandCenter": false,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.preferredDarkColorTheme": "Noir Poimandres Grey",
+  "editor.stickyScroll.enabled": false
+}
